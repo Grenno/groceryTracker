@@ -3,6 +3,6 @@ Personal project app aimed to store and keep track of grocery receipts with the 
 
 The app in mind will be developed with the following components (adding more in development):
 
-- React.js for frontend
+- Svelte for frontend
 - Python for backend
 - Supabase for database
