@@ -1,5 +1,5 @@
 from app.database import engine
-
+# testing connection to supabase
 try:
     connection = engine.connect()
     print("Connected successfully!")
