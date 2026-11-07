@@ -4,7 +4,7 @@ from app.models import Store
 
 app = FastAPI()
 
-# creates tables in database specific to this db connection
+# creates tables dont exist in the database specific to this db connection
 Base.metadata.create_all(bind=engine)
 
 
